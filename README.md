@@ -1,7 +1,7 @@
 # PORTFOLIO
 - My website is a captivating portfolio platform showcasing my skills and personality. Through HTML,
  CSS, and a touch of JavaScript, I introduce myself and present my outstanding projects. Get to 
-know me and explore my work in a visually appealing and user-friendly interface.
+know me and explore my work in a visually appealing and user-friendly interface...
 ## Installation
 
 To run this project locally, click on the link below.
